@@ -1,4 +1,5 @@
-# Kafka_Stream_Python
+# Project for ML for Stream Data 
+## Kafka_Stream_Python
 
 This project is to simulate recommendation engine on stream data. 
 
