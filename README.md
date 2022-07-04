@@ -4,6 +4,8 @@ This project is to simulate recommendation engine on stream data.
 
 1. we need to install zookeeper and kafka , use the following command :
 
+Note that the docer_compose3.yml file is for  Mac computers with Apple silicon (M1). You may use kafka-ui for convenient.  
+
 ```
 docker-compose -f docker-compose3.yml up  -d
 ```
