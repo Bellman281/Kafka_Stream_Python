@@ -37,3 +37,4 @@ GEO HASH percision 7: sxk99bh
 GEO HASH percision 6: sxk99b
 ```
 
+4. To be Continued. Stay Tuned!
