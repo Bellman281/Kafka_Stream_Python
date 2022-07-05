@@ -20,4 +20,5 @@ docker-compose -f docker-compose3.yml up  -d
 
 ```
 
-3. we need to geoHASH the locations
+3. we need to geoHASH the locations. The geohash_consumer.py will take care of it. it will consume the stream from KAFKA and then produce GEOHASH with different percision for each user.
+
